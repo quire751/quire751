@@ -1,6 +1,6 @@
 ## README PLEASE.
 # hi!!!!  
-I am quire751.  
+I am quire751  
 I mainly know luau and lua right now!!! (I plan to learn python C and C++ later + Rust!!!)
 <!--
 **quire751/quire751** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
