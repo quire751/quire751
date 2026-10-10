@@ -1,4 +1,3 @@
-## README PLEASE.
 # hi!!!!  
 I am quire!  
 I mainly know luau and lua right now  
