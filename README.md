@@ -1,7 +1,8 @@
 # hi!!!!  
 I am quire!  
 I mainly know luau and lua right now  
-(learning python as a side-project though!!)
+(learning python as a side-project though!!)  
+quire's fallacy
 <!--
 **quire751/quire751** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
